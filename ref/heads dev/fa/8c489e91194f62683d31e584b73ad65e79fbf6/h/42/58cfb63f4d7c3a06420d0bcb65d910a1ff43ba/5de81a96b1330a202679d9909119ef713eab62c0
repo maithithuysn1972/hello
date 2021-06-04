@@ -1,8 +1,12 @@
 id: 4258cfb63f4d7c3a06420d0bcb65d910a1ff43ba
+replaces: b71dfb562f91d00822b4e12a60337f6daa5a737f
+closed: true
 created: dinhtiendat1901	anhvica3005@gmail.com	1622849291171	420
 heads: f2c8a49a3755d884056832843268a74679922707
+integration-commit: 5fa5751846decd49796107bd898ee217603d6661
 source-head: fa8c489e91194f62683d31e584b73ad65e79fbf6
 target: refs/heads/master
 target-head: a4766e61b946e2f79a26bb96d8f53e0eb55e50e2
+updated: dinhtiendat1901	anhvica3005@gmail.com	1622849732980	420
 content
 alo ban oi review to voi
